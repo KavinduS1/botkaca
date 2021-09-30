@@ -1,4 +1,7 @@
-https://github.com/prgofficial/pyrogram/archive/asyncio.zip
-tgcrypto
-appdirs
-aria2p
+requests
+python-telegram-bot
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+tenacity
+python-magic
